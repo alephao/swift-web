@@ -19,7 +19,7 @@ let package = Package(
     .library(name: "View", targets: ["View"])
   ],
   dependencies: [
-    .package(url: "https://github.com/pointfreeco/swift-html", revision: "be9d301"),
+    .package(url: "https://github.com/alephao/swift-html", from: "0.5.0"),
     .package(url: "https://github.com/pointfreeco/swift-prelude", revision: "da5ead2"),
     .package(url: "https://github.com/pointfreeco/swift-snapshot-testing", from: "1.15.3"),
     .package(url: "https://github.com/apple/swift-crypto.git", from: "2.0.0"),

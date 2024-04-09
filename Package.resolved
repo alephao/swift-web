@@ -1,5 +1,5 @@
 {
-  "originHash" : "03c2bca4025045adba228174dae72529daa69734e30ae81c4cd1784ff9ed7b11",
+  "originHash" : "73ef153ec9102e131edfb2928a7d3c0e590d2ba0a630222c510c0d3df9e920e1",
   "pins" : [
     {
       "identity" : "bluecryptor",
@@ -76,10 +76,10 @@
     {
       "identity" : "swift-html",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-html",
+      "location" : "https://github.com/alephao/swift-html",
       "state" : {
-        "branch" : "be9d301",
-        "revision" : "be9d301d0d2ed432a57d10c5ab7a1183bd1afce8"
+        "revision" : "be9d301d0d2ed432a57d10c5ab7a1183bd1afce8",
+        "version" : "0.5.0"
       }
     },
     {
